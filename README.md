@@ -3,7 +3,14 @@ Smart Traffic Prediction System that estimates traffic volume based on time of d
 
 # To run the code:
 Run the model_training.py file once to train the model with the data from csv file
+
+Use the command:
+
 python model_training.py
 
+
 Run the app.py file
+
+Use the command:
+
 python -m streamlit run app.py
