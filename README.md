@@ -14,3 +14,6 @@ Run the app.py file
 Use the command:
 
 python -m streamlit run app.py
+
+# Deployed using Streamlit 
+https://keeru-2005-smart-traffic-prediction-system-app-kyl4wd.streamlit.app/
